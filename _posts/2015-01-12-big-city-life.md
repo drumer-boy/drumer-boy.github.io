@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Big City Life"
+title: "Health Benefits"
 date: 2015-01-12
 backgrounds:
     - /assets/demo/vanilla.jpeg

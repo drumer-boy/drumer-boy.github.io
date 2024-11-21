@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Snowy Day"
+title: "Piece Of Mind"
 date: 2015-01-10
 backgrounds:
     - /assets/demo/on-the-road.jpeg
