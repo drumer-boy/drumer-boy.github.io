@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Back to Work"
+title: "Take Control, How?!"
 date: 2015-02-06
 backgrounds:
     - /assets/demo/code-screen.jpg

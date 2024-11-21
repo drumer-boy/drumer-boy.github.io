@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Japanese Breeze"
+title: "Is it legal? YES!"
 date: 2015-02-05
 backgrounds:
     - /assets/demo/tube.jpg

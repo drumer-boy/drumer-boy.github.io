@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Sound of Freedom"
+title: "Buy Your Drums, Control Your Rent!"
 date: 2015-01-09
 backgrounds:
     - /assets/demo/desk.jpeg
