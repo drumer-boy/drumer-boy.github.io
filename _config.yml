@@ -1,9 +1,9 @@
 # Site settings
-name: Travelogue
-description: "A minimal, single-column Jekyll theme that provides an immersive read experience for your readers"
+name: dummer boy
+description: "Drummer has the divine rights to rent control"
 
-baseurl: "/Travelogue" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://drummerrentcontrol.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -15,9 +15,9 @@ paginate: 8
 paginate_path: page/:num/
 
 author:
-    name: "Salvatore Gentile"
+    name: "dummer boy"
     email: ""
-    uri: "https://github.com/SalGnt"
+    uri: "https://drummerrentcontrol.com"
 
 sass:
     sass_dir: _sass
