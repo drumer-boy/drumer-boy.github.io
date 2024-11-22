@@ -4,6 +4,7 @@ title: "Is it legal? YES!"
 date: 2015-02-05
 backgrounds:
     - /assets/demo/tube.jpg
+    - /assets/demo/tube2.jpg
 thumb: /assets/demo/thumbs/chemex.jpg
 categories: travel city
 tags: is it legal useless
