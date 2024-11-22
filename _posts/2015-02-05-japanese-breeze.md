@@ -6,17 +6,29 @@ backgrounds:
     - /assets/demo/tube.jpg
 thumb: /assets/demo/thumbs/chemex.jpg
 categories: travel city
-tags: japan winter spring metropolis
+tags: is it legal useless
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. _Ut porta_, felis eget vehicula `porttitor`, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
+> Owning and playing a drum set in Toronto is completely legal, making it an
+> accessible activity for musicians and hobbyists alike. The city’s regulations
+> allow residents to use acoustic drum sets within certain boundaries, offering
+> a way to practice and enjoy music while respecting the community. These rules
+> provide clear guidelines that enable drummers to pursue their craft without
+> unnecessary restrictions.
 
-> Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
+## They can't stop you!
 
-## Donec imperdiet
-Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+Under Toronto’s Noise Bylaw, playing acoustic drums is allowed until 11 p.m. at
+night, ensuring a fair balance between personal enjoyment and neighborhood
+tranquility. The bylaw allows individuals to engage in their passions during
+reasonable hours, giving drummers the freedom to express themselves and practice
+as long as it doesn’t cause ongoing disruption.
 
-## Etiam placerat
-Etiam placerat est sed quam semper scelerisque. Suspendisse quis malesuada dolor, eget convallis ipsum. Vivamus elementum luctus diam, eu malesuada eros vulputate sed. Sed ultricies lacinia sodales. Nullam egestas auctor mauris vel mollis. Curabitur vel risus vitae felis cursus convallis eget et magna. Nullam vel purus vel ante porta faucibus id suscipit dolor. Cras posuere, dolor nec suscipit egestas, dui sem eleifend enim, sit amet ornare nunc enim non orci. Donec aliquet magna sed felis consectetur, dictum tincidunt ipsum lobortis. Nulla efficitur est sed auctor eleifend.
+Interestingly, since bylaw enforcement typically requires about an hour to
+respond to a noise complaint, drummers have a unique window to play. For
+example, they could potentially play at high volumes for 30 minutes *100 dbs*. By the time
+authorities arrive to investigate, the activity would likely have ended, making
+it feasible to plan around this response time and enjoy up to an hour of daily
+practice without interference. This approach highlights the flexibility within
+the current enforcement process for drummers to make the most of their time.
 
-Donec facilisis magna in sapien convallis auctor. In porttitor neque magna, ut aliquet diam mollis mattis. Praesent iaculis enim nisl, sit amet molestie nunc rutrum ut. Sed tincidunt dolor eget lacinia interdum. Morbi blandit, augue nec pharetra posuere, odio tortor congue magna, sed dictum libero nunc quis mi. Donec feugiat massa tortor, id tincidunt velit scelerisque sed. Suspendisse lacinia diam id lectus dignissim, sit amet eleifend elit rutrum. Mauris nunc sapien, ultrices sed vehicula sed, efficitur nec leo.
